@@ -10,13 +10,16 @@
 另外应该是再采集一个小电阻采集时的参考电压  
 ***
 ## 电路板的硬件模块  
-<img width="565" alt="硬件组成" src="https://github.com/user-attachments/assets/3a0a7146-c043-414f-b359-95b208a41e95" />  
-***
+<img width="565" alt="硬件组成" src="https://github.com/user-attachments/assets/3a0a7146-c043-414f-b359-95b208a41e95" />    
+
+***  
+
 ## CubeMx  
 1️⃣UART 115200 直接异步通信就可以了  
 2️⃣IIC  直接开启就可以了  
 3️⃣ADC  
-4️⃣EXIT  别忘了配置NVIC  
+4️⃣EXIT  别忘了配置NVIC    
+***
 
 ## 代码
-😟代码写得很烂，不想展示
+😟代码写得很烂，不想展示。
