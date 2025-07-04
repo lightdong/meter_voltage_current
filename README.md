@@ -1,1 +1,3 @@
-# meter_voltage_current
+# 基于STM32F103C8T6的模拟电路电流采样
+
+## 电流采样&电压采样的工作原理
