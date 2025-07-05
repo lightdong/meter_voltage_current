@@ -30,4 +30,13 @@
 ```
 
 代码的框架如下：  
+![image](https://github.com/user-attachments/assets/503992b9-2908-4373-bbf4-ef852638682f)  
+***  
+
+## 焊接
+这就是一个熟能生巧的过程，希望大家都可以成为焊武帝  
+个人觉得焊得还不错：  
+![image](https://github.com/user-attachments/assets/6d02b238-1ff2-44dd-af27-ac60194a745f)
+
+
 
