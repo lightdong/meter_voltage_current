@@ -36,7 +36,17 @@
 ## 焊接
 这就是一个熟能生巧的过程，希望大家都可以成为焊武帝  
 个人觉得焊得还不错：  
-![image](https://github.com/user-attachments/assets/6d02b238-1ff2-44dd-af27-ac60194a745f)
+![image](https://github.com/user-attachments/assets/6d02b238-1ff2-44dd-af27-ac60194a745f)  
+
+## 测试
+🐱对采样电路的电压测量
+![image](https://github.com/user-attachments/assets/5a99a610-fb02-4b72-9f90-46f9af5613e2)  
+测的时候，黑笔直接按在了USB上可能测量得有一定的误差，图三与图二的差就是电流的值  
+🐶看一下显示屏的耗电  
+![image](https://github.com/user-attachments/assets/ecd15b1d-ea02-42cf-b9c5-575dd3bbfa99)  
+大概10mA左右，看了数据手册差不多
+
+
 
 
 
